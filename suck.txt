@@ -7,3 +7,6 @@ over。。。。。
 
 tom an jerry
 tom is 18 years old;
+jerry is a mouse;
+tom is a cat 
+version 8

@@ -1,1 +1,3 @@
-suck is a good man ; version 1
+suck is a good man ;
+suck is a nice man ; 
+ version 2
